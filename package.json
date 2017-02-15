@@ -1,0 +1,33 @@
+{
+  "name": "hd3-fyoiza",
+  "version": "1.0.0",
+  "description": "\"Home -Day 3 exercises\"",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faithfreecoder/HD3-fyoiza.git"
+  },
+  "keywords": [
+    "\"Jasmine\"",
+    "\"HTML\"",
+    "\"CSS\"",
+    "\"Binary",
+    "Search\""
+  ],
+  "author": "Faith <fyoiza@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faithfreecoder/HD3-fyoiza/issues"
+  },
+  "homepage": "https://github.com/faithfreecoder/HD3-fyoiza#readme",
+  "devDependencies": {
+    "jasmine": "^2.5.3",
+    "jasmine-node": "^1.14.5"
+  }
+}
